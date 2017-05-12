@@ -1,0 +1,52 @@
+/*h1 {
+  color: #452F73;
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 10px;
+  line-height: 20px;
+  margin-bottom: 80%;
+  position: relative;
+  text-align: top;
+  top: 20%;
+}*/
+
+#main{
+	margin-left: none;
+	margin-right:none;
+}
+#cunt {
+	background-repeat:no-repeat;
+}
+#header{
+background-color: black;
+height: 170px;
+}
+#logo{
+height: 140px;
+width:	800px;
+position: relative;
+background: transparent;
+}
+#logo_text{
+height: ;	
+width: ;
+position: ;
+background:;
+}
+#menubar{
+
+}
+#menu{
+
+}
+#selected{
+
+} 
+
+*{
+	margin:0;
+	padding:0;
+}
+
+div{
+	display: block;
+}
